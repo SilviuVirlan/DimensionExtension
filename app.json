@@ -1,0 +1,26 @@
+{
+  "id": "15713e02-789f-4ff8-9a2e-df7378a61c26",
+  "name": "DimExt",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50160,
+      "to": 50169
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DimExt.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
